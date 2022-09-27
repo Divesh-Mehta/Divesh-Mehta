@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divesh-Mehta&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
   </div>  
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=Divesh-Mehta&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
   
   <br>
   
