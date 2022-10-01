@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   <img src="https://shields.io/github/stars/Divesh-Mehta?label=Stars&style=social)[(https://github.com/Divesh-Mehta">
 </p>
 
-<img src="https://media.tenor.com/4RYbGa1GttQAAAAd/lofi-browsing.gif" width="400px" alt="GIF" align="right"> 
+<img src="https://64.media.tumblr.com/14cc45f9610a6ee341a45fd0d68f4dde/20d11b36022bca7b-bf/s640x960/67ab1db12ff73a530f649ac455c000945d99c0d6.gif" width="400px" alt="GIF" align="right"> 
 <br />
 
 
