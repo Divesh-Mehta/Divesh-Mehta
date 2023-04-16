@@ -38,3 +38,5 @@ Here are some ideas to get you started:
   
   
 [![@Divesh_Mehta's Holopin board](https://holopin.io/api/user/board?user=Divesh_Mehta)](https://holopin.io/@Divesh_Mehta)
+
+<script src="https://embed.github.com/view/3d/Divesh-Mehta/skyline/master/Divesh-Mehta-2022.stl"></script>
