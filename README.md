@@ -39,4 +39,3 @@ Here are some ideas to get you started:
   
 [![@Divesh_Mehta's Holopin board](https://holopin.io/api/user/board?user=Divesh_Mehta)](https://holopin.io/@Divesh_Mehta)
 
-<script src="https://skyline.github.com/divesh-mehta/2022"></script>
