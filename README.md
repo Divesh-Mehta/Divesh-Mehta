@@ -22,20 +22,26 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about  -->
 - 📫 How to reach me: dbxitachi771@gmail.com
 <!-- - 😄 Pronouns:  -->
-- ⚡ Fun fact: Iam still learning
+- 😍 Interested to build tech that solves real-world problems
 
-
+- ⚡ Fun fact: I am still learning
+<hr>
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Divesh-Mehta&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divesh-Mehta&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
-  </div>  
+  </div>
+
+
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Divesh-Mehta&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+  [![@Divesh_Mehta's Holopin board](https://holopin.io/api/user/board?user=Divesh_Mehta)](https://holopin.io/@Divesh_Mehta)
   
+
+
   <br>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Divesh-Mehta&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
   
   <hr/>
   
   
-[![@Divesh_Mehta's Holopin board](https://holopin.io/api/user/board?user=Divesh_Mehta)](https://holopin.io/@Divesh_Mehta)
-
